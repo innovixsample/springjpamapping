@@ -1,0 +1,9 @@
+com/one/to/many/student/repo/StudentRepository.class
+com/one/to/many/OneToManyApplication.class
+com/one/to/many/department/service/DepatmentService.class
+com/one/to/many/department/repository/DepartmentRepository.class
+com/one/to/many/student/model/Student.class
+com/one/to/many/department/controller/DepatmentController.class
+com/one/to/many/student/service/StudentService.class
+com/one/to/many/department/model/Department.class
+com/one/to/many/student/controller/RestControllerr.class

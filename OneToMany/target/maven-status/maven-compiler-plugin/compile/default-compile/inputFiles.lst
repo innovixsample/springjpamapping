@@ -1,0 +1,9 @@
+/home/innovix00/Documents/importand/OneToMany-main/OneToMany/src/main/java/com/one/to/many/department/repository/DepartmentRepository.java
+/home/innovix00/Documents/importand/OneToMany-main/OneToMany/src/main/java/com/one/to/many/student/model/Student.java
+/home/innovix00/Documents/importand/OneToMany-main/OneToMany/src/main/java/com/one/to/many/OneToManyApplication.java
+/home/innovix00/Documents/importand/OneToMany-main/OneToMany/src/main/java/com/one/to/many/student/controller/RestControllerr.java
+/home/innovix00/Documents/importand/OneToMany-main/OneToMany/src/main/java/com/one/to/many/department/model/Department.java
+/home/innovix00/Documents/importand/OneToMany-main/OneToMany/src/main/java/com/one/to/many/student/repo/StudentRepository.java
+/home/innovix00/Documents/importand/OneToMany-main/OneToMany/src/main/java/com/one/to/many/department/service/DepatmentService.java
+/home/innovix00/Documents/importand/OneToMany-main/OneToMany/src/main/java/com/one/to/many/student/service/StudentService.java
+/home/innovix00/Documents/importand/OneToMany-main/OneToMany/src/main/java/com/one/to/many/department/controller/DepatmentController.java
